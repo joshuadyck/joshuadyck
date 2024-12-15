@@ -1,10 +1,9 @@
-```
-     _  ___  ____  _   _ _   _   _      ______   ______ _  __
-    | |/ _ \/ ___|| | | | | | | / \    |  _ \ \ / / ___| |/ /
- _  | | | | \___ \| |_| | | | |/ _ \   | | | \ V / |   | ' / 
-| |_| | |_| |___) |  _  | |_| / ___ \  | |_| || || |___| . \ 
- \___/ \___/|____/|_| |_|\___/_/   \_\ |____/ |_| \____|_|\_\
-```
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;___&nbsp;&nbsp;____&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;_&nbsp;_&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;______&nbsp;&nbsp;&nbsp;______&nbsp;_&nbsp;&nbsp;__
+&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|/&_nbsp;\/&nbsp;___||&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;|&nbsp;/&nbsp;\&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;_&nbsp;\&nbsp;\&nbsp;/&nbsp;/&nbsp;___|&nbsp;|/&nbsp;/
+&nbsp;_&nbsp;&nbsp;|&nbsp;|&nbsp;|&nbsp;|\___&nbsp;\|&nbsp;|_|&nbsp;|&nbsp;|&nbsp;|&nbsp;|/_&nbsp;\&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|&nbsp;|&nbsp;\&nbsp;V&nbsp;/&nbsp;|&nbsp;&nbsp;&nbsp;|&nbsp;'&nbsp;/
+|&nbsp;|_|&nbsp;|&nbsp;|_|&nbsp;|___)&nbsp;|&nbsp;_&nbsp;&nbsp;|&nbsp;|_|&nbsp;/&nbsp;___&nbsp;\&nbsp;&nbsp;|&nbsp;|_|&nbsp;||&nbsp;||&nbsp;|___|&nbsp;.&nbsp;\&nbsp;
+&nbsp;\___/&nbsp;\___/|____/|_|&nbsp;|_|\___/_/&nbsp;&nbsp;&nbsp;\_\&nbsp;|____/&nbsp;|_|&nbsp;\____|_|\_\
+
 
 <!--
 **joshuadyck/joshuadyck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
