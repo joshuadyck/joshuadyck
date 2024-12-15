@@ -1,4 +1,7 @@
-## Hi there 👋
+    | |/ _ \/ ___|| | | | | | | / \    |  _ \ \ / / ___| |/ /
+ _  | | | | \___ \| |_| | | | |/ _ \   | | | \ V / |   | ' / 
+| |_| | |_| |___) |  _  | |_| / ___ \  | |_| || || |___| . \ 
+ \___/ \___/|____/|_| |_|\___/_/   \_\ |____/ |_| \____|_|\_\
 
 <!--
 **joshuadyck/joshuadyck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
